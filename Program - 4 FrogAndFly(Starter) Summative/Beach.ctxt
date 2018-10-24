@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Beach
+comment0.text=\r\n\ 5\ marks\r\n
+comment1.params=
+comment1.target=Beach()
+comment1.text=\ \r\n\ beach\ is\ the\ constructor\ for\ beach\ type\ of\ objects\r\n\ \r\n\ @param\ there\ are\ no\ parameter\r\n\ @return\ nothing\ is\ returned\r\n
+comment2.params=n
+comment2.target=void\ addFood(int)
+comment2.text=\r\n\ Adds\ n\ Food\ objects\ to\ the\ world\ at\ random\ locations\r\n\ fot\ the\ fly\ to\ eat\r\n\ \r\n\ @param\ needs\ to\ know\ how\ much\ food\ it\ is\ adding\ to\ the\ world\r\n\ @return\ there\ are\ none\r\n
+comment3.params=
+comment3.target=void\ addFly()
+comment3.text=\r\n\ Adds\ a\ one\ fly\ object\ to\ the\ world\ at\ a\ random\ location\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ mothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ addFrog()
+comment4.text=\r\n\ adds\ a\ frog\ object\ to\ the\ middle\ of\ the\ world\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ there\ are\ no\ return\ types\r\n
+comment5.params=
+comment5.target=void\ update()
+comment5.text=\r\n\ updates\ the\ scoreboard\ and\ changes\ the\ number\ of\ the\ score\r\n\ if\ fly\ ate\ food\r\n\ \r\n\ @param\ there\ are\ no\ parameter\r\n\ @return\ nothing\ is\ returned\ \r\n
+numComments=6

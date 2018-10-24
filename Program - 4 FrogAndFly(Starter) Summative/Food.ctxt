@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Food
+comment1.params=
+comment1.target=Food()
+comment1.text=\ \r\n\ food\ is\ the\ constructor\ for\ food\ type\ of\ objects\r\n\ \r\n\ @param\ there\ are\ no\ parameter\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=2

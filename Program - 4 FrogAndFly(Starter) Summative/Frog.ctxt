@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Frog
+comment0.text=\r\n\ 10\ marks\r\n
+comment1.params=
+comment1.target=Frog()
+comment1.text=\r\n\ frog\ is\ the\ constructor\ for\ frog\ type\ of\ objects\r\n\ also\ sets\ the\ speed\ of\ the\ frog\ between\ 4-8\ pixels\ at\ the\ start\ of\ the\ world\r\n\ \r\n\ @param\ there\ are\ no\ parameter\r\n\ @return\ nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\ is\ the\ method\ that\ is\r\n\ run\ during\ every\ act\ cycle\r\n\ of\ the\ scenario\r\n\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ walk()
+comment3.text=\r\n\ this\ will\ allow\ the\ frog\ to\ move\ but\ not\ in\ a\ straight\ line.\ it\ will\ go\ of\ cource\ 35%\ of\ the\ time\ the\ other\ 65%\ it\ will\ move\ froward\r\n\ it\ will\ move\ forward\ the\ direction\ it\ is\ facing\r\n\ \r\n\ @param\ there\ are\ no\ parameter\r\n\ @return\ there\ is\ no\ return\r\n
+comment4.params=
+comment4.target=void\ checkForFly()
+comment4.text=\r\n\ checkForFly\ checks\ if\ the\ frog\ has\ touched\ a\ fly...\ \r\n\ removes\ the\ fly\ if\ touched\r\n\ \r\n\ @param\ There\ are\ no\ paramters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ turnAtEdge()
+comment5.text=\r\n\ turnAtEdge\ checks\ if\ the\ frog\ is\ at\ the\ edge\r\n\ if\ the\ frog\ is\ at\ the\ edge...\r\n\ turn\ 7\ degress\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=6

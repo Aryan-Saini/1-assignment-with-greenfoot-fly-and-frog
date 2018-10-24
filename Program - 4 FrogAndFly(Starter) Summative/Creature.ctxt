@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Creature
+comment1.params=
+comment1.target=boolean\ atEdgeOfWorld()
+comment1.text=\r\n\ atEdgeOfWorld\ is\ boolean\ that\ checks\ if\ an\ object\ is\ at\ the\ edge\ of\ the\ world\r\n\ \r\n\ @param\ there\ are\ no\ parameter\r\n\ @return\ it\ returns\ a\ true\ or\ false\ value\r\n
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Scoreboard
+comment1.params=
+comment1.target=Scoreboard()
+comment1.text=\r\n\ ScoreBoard\ makes\ a\ n\ image\ that\ says\ the\ score\ and\ the\ scoreboard\ starts\ at\ 0\ \r\n\ \r\n\ @param\ there\ are\ no\ parameter\ \r\n\ @return\ nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ addToScore()
+comment2.text=\r\n\ addToScore\ clears\ the\ old\ image\ and\ makes\ a\ new\ image\ with\ a\ diffrent\ number\r\n\ \r\n\ @param\ there\ are\ no\ parameter\r\n\ @nothing\ is\ returned\r\n
+numComments=3
